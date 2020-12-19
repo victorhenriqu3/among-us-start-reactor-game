@@ -5,6 +5,10 @@ Todo o jogo, incluindo as animações e os sons, foram desenvolvidos sem a utili
 **Importante: Apenas para Propósito Educacional**
 Esse projeto foi criado apenas com propósito de aprendizagem e exercicio na área de programação.
 
+## Link do Projeto
+
+[https://among-us-start-reactor-game.vercel.app](https://among-us-start-reactor-game.vercel.app)
+
 ## Agradecimento
 
 Um agradecimento super especial ao [Gabriel Froes](https://github.com/gabrielfroes), [Vanessa Weber](https://github.com/vweberfroes) e ao [Erik Santana](https://github.com/imerik1/), por disponibilizar esse conteúdo para poder implementar o código.
